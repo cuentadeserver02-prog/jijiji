@@ -1472,3 +1472,12 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [13Aug2025 00:33:01.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9
 [13Aug2025 00:33:01.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player el_lolo (9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9) successfully connected to voice chat
 [13Aug2025 00:36:31.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1446, l='ServerLevel[world]', x=3933.74, y=54.00, z=-3026.30] died, message: 'Unemployed has succumbed to the infection'
+[13Aug2025 00:41:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Discount radar]
+[13Aug2025 00:42:10.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[13Aug2025 00:44:03.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made el_lolo a server operator
+[13Aug2025 00:44:04.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Aug2025 00:44:07.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11114, l='ServerLevel[world]', x=4037.43, y=115.00, z=-3093.12] died, message: 'Unemployed has succumbed to the infection'
+[13Aug2025 00:44:32.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Hard]
+[13Aug2025 00:48:38.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PATITOELdios lost connection: Disconnected
+[13Aug2025 00:48:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PATITOELdios left the game
+[13Aug2025 00:48:38.646] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PATITOELdios

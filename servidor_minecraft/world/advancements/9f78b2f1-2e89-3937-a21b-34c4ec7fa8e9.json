@@ -6324,5 +6324,11 @@
     },
     "done": true
   },
+  "spore:focused_searched": {
+    "criteria": {
+      "pick_up_zoaholic": "2025-08-13 00:41:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
